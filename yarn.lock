@@ -819,7 +819,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@setprotocol/set-protocol-v2@^0.1.0-london.0":
+"@setprotocol/set-protocol-v2@0.1.0-london.0":
   version "0.1.0-london.0"
   resolved "https://registry.yarnpkg.com/@setprotocol/set-protocol-v2/-/set-protocol-v2-0.1.0-london.0.tgz#9c30743cd0a558c8c6858db50a21afc49af4395f"
   integrity sha512-4J/C3I929DJXqGzugILwHs3DEN7T2MnYHGa6FyOqHaZ3VrH+Iq73AF0D+97XItTw06jbaoy/LPWsiiq81HoXBw==

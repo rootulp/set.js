@@ -65,7 +65,7 @@
         "@0xproject/types": "^1.1.4",
         "@0xproject/typescript-typings": "^3.0.2",
         "@0xproject/utils": "^2.0.2",
-        "@setprotocol/set-protocol-v2": "^0.1.0-london.0",
+        "@setprotocol/set-protocol-v2": "0.1.0-london.0",
         "@types/chai-as-promised": "^7.1.3",
         "@types/jest": "^26.0.5",
         "@types/web3": "^1.2.2",
@@ -118,7 +118,8 @@
             "js",
             "jsx",
             "json",
-            "node"
+            "node",
+            "d.ts"
         ],
         "moduleNameMapper": {
             "^@src/(.*)": "<rootDir>/src/$1",
